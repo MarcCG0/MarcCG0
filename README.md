@@ -10,7 +10,7 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/marc-camps-garreta-9a7747264/" target="_blank">
-  <img align="center" alt="Marc Camps | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Marc Camps | Linkedin" width="24px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> &nbsp;&nbsp;
 <a href="mailto:marc.camps.garreta@gmail.com" >
   <img align="center" alt="Marc Camps | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
